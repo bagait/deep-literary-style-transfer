@@ -1,0 +1,5 @@
+spacy==3.7.5
+ollama==0.2.1
+numpy==1.26.4
+# Note: scikit-learn is not a direct dependency but often used with spacy/numpy.
+# We are using numpy directly, which is a dependency of scikit-learn.
